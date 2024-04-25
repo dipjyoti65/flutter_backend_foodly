@@ -1,0 +1,53 @@
+Backend development for fooldy
+--> First we have imported dependencies... 
+--> Created necessary folders 
+--> started our express server
+
+********************************
+While creating an API, first make --> Models for that api,then controller,routes and then hook it to server.js
+
+Backend Setup Dotenv
+Setup Doteng | Change Port Number | Database Connection
+
+
+Backend Create Database
+Create Dtabase |  Database Connection 
+
+MongoDB : Username --> foodly Password : xck5TGi8eUsJtf0p
+
+npm install mongodb
+
+mongodb+srv://foodly:<password>@foodly.9ukvamn.mongodb.net/?retryWrites=true&w=majority&appName=foodly
+
+
+mongodb+srv://foodly:<password>@foodly.9ukvamn.mongodb.net/
+
+Backend Categories
+Create Category Schema| Category Controller | Add Category
+
+Backend Categories
+1)Get All Categories | Get Random Categories
+2)Categories Route | Hook Route to Server.js | Postman Test
+
+Backend Restaurants
+Get Restaurant Function | Add Restaurant Function
+Get Nearby Restaurants | Get All Nearby Restaurants
+PostMan test | Bug fixes
+
+Backend Foods
+Food Schema
+Seach | Get Food By Code & Category | Food Routes
+--> 3:12:39 --> Search Index | Postman Test | Bug fixing
+--> 3:19:56 --> Search Index | Postman Test | Bug fixing
+
+Backend Rating
+--> 3:27:58 --> Rating Schema
+--> 3:34:37 --> Add Rating & Check Rating
+
+Backend User
+--> 4:0:43 --> User Schema
+--> 4:10:49 --> Address Schema
+--> 4:17:42 --> Generate OTP Function
+--> 4:21:30 --> Create User Function
+--> 4:33:55 --> Create Login Function
+--> 4:43:23 --> Send Email with Nodemailer and Google
