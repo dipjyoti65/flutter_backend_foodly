@@ -1,4 +1,7 @@
 Backend development for fooldy
+
+Fooldy password -> twvuoxotvtchkduj
+(This is the password which have been created while creating the foodlyflutter app in my google email)
 --> First we have imported dependencies... 
 --> Created necessary folders 
 --> started our express server
@@ -51,3 +54,8 @@ Backend User
 --> 4:21:30 --> Create User Function
 --> 4:33:55 --> Create Login Function
 --> 4:43:23 --> Send Email with Nodemailer and Google
+--> 4:56:43 --> Testing Otp Generator and Sending a Test Email
+--> 5:02:24 --> GetUser Function
+--> 5:07:08 --> Verify Account and Verify Phone Functions
+--> 5:14:55 --> Auth Router and User Router
+
